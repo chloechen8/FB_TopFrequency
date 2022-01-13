@@ -1,15 +1,21 @@
 # FB_TopFrequency
-1249.Minimum Remove to Make Valid Parentheses: https://github.com/chloechen8/FB_TopFrequency/blob/main/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md
+1249.Minimum Remove to Make Valid Parentheses: 最优解 O(1) space，使用常数计数.
+https://github.com/chloechen8/FB_TopFrequency/blob/main/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md
 
-680.Valid Palindrome II	
+680.Valid Palindrome II: 注意指针的走动
+https://github.com/chloechen8/FB_TopFrequency/blob/main/680.%20Valid%20Palindrome%20II.md
 
-1762.Buildings With an Ocean View
+1762.Buildings With an Ocean View：从右边吹的风，注意初始值判断。
+https://github.com/chloechen8/FB_TopFrequency/blob/main/1762.%20Buildings%20With%20an%20Ocean%20View.md
 
-1570.Dot Product of Two Sparse Vectors
+1570.Dot Product of Two Sparse Vectors： 读懂题目
+https://github.com/chloechen8/FB_TopFrequency/blob/main/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.md
 
-314.Binary Tree Vertical Order Traversal
+314.Binary Tree Vertical Order Traversal：BFS/ DFS
+https://github.com/chloechen8/FB_TopFrequency/blob/main/314.%20Binary%20Tree%20Vertical%20Order%20Traversal.md
 
-528.Random Pick with Weight	
+528.Random Pick with Weight： 神奇的思路
+https://github.com/chloechen8/FB_TopFrequency/blob/main/528.%20Random%20Pick%20with%20Weight.md
 
 921.Minimum Add to Make Parentheses Valid	
 
