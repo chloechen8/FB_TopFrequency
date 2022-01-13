@@ -1,5 +1,5 @@
 # FB_TopFrequency
-1249	Minimum Remove to Make Valid Parentheses<https://github.com/chloechen8/FB_TopFrequency/blob/main/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md>
+[1249	Minimum Remove to Make Valid Parentheses]<https://github.com/chloechen8/FB_TopFrequency/blob/main/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md>
 
 680	Valid Palindrome II	
 
