@@ -1,5 +1,6 @@
 # FB_TopFrequency
-## 1249.Minimum Remove to Make Valid Parentheses: 最优解 O(1) space，使用常数计数.
+
+### 1249.Minimum Remove to Make Valid Parentheses: 最优解 O(1) space，使用常数计数.
 
 - [LC](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - [Solution](https://github.com/chloechen8/FB_TopFrequency/blob/main/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
